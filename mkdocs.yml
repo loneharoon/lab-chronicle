@@ -1,7 +1,10 @@
 site_name: Lab Chronicle
+
 theme:
   name: material
 
 nav:
   - Home: index.md
-
+  - Events: events/index.md
+  - Conferences: conferences/index.md
+  - Reflections: reflections/index.md
