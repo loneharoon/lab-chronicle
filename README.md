@@ -28,5 +28,5 @@ The goal is to preserve not only publications and outcomes, but also the learnin
 
 ## Contribution Guidelines
 
-Lab members are encouraged to contribute entries regularly. Please read [Contribution Guidelines](CONTRIBUTING.md) to get started.
+Lab members are encouraged to contribute entries regularly. Please read [Contribution Guidelines](CONTRIBUTING.MD) to get started.
 
