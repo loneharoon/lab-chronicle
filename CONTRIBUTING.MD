@@ -1,4 +1,4 @@
-# Contributing to the Lab Chronicle
+# How to Contribute to the SIRL lab Chronicle
 
 Thank you for contributing to the Lab Chronicle.
 
@@ -20,9 +20,9 @@ Please add new entries to the appropriate section.
 
 # General Workflow
 
-1. Fork the repository to your GitHub account.
-2. Create or edit the appropriate Markdown (`.md`) file in the relevant section.
-3. Add related images/assets if needed.
+1. Fork the repository (https://github.com/sirl-lab/lab-chronicle) to your GitHub account.
+2. Create or edit the appropriate Markdown (`.md`) file in the relevant section mentiond below
+3. Add related images as mentioned below, if needed.
 4. Commit your changes.
 5. Create a pull request to submit your contribution.
 
@@ -64,7 +64,7 @@ docs/assets/
 Recommended organization:
 
 ```text
-docs/assets/conferences/ubicomp2026/
+docs/assets/conferences/ubicomp2021/
 docs/assets/events/lab-retreat/
 ```
 
@@ -78,17 +78,20 @@ Example Markdown syntax:
 ![Group Photo](../assets/conferences/ubicomp2026/group-photo.jpg)
 ```
 
-Please compress large images before uploading.
+Please **compress large images** before uploading.
 
-Recommended:
-- JPG format for photos
-- Maximum width around 1600px
+**Recommended**:
+  
+  - JPG format for photos
+  - Maximum width around 1600px
+  - File size preferably below 1 MB per image
 
 ---
 
 # Markdown Guidelines
 
 Use:
+
 - clear headings,
 - concise writing,
 - bullet points where appropriate,
@@ -99,6 +102,8 @@ Example structure:
 ```markdown
 # Event Title
 
+# Date
+
 ## Overview
 
 ## Highlights
@@ -106,6 +111,8 @@ Example structure:
 ## Reflections
 
 ## Photos
+
+## Contributors Name
 ```
 
 ---
@@ -139,6 +146,7 @@ Reflection entries may include:
 # Writing Style
 
 Please maintain:
+
 - respectful language,
 - constructive tone,
 - and professional conduct.
@@ -149,4 +157,4 @@ The chronicle is intended to preserve the collective memory and culture of the l
 
 # Questions
 
-If you are unsure where or how to contribute, please contact the repository maintainers.
+If you are unsure where or how to contribute, please contact the PI of the SIRL lab.
