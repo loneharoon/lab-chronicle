@@ -7,6 +7,7 @@ All members of SIRL participated in the EECS Research Symposium held at IISER Bh
 
 
 ## Participants
+- [Dr. Haroon Lone](https://www.linkedin.com/in/loneharoon/) (PI)
 - [Nilesh Sahu](https://www.linkedin.com/in/nilesh-kr-sahu/) (PhD 2021-2026)
 - [Vikas](https://www.linkedin.com/in/wmivikas/) (PhD 2025–2030)
 - [Aditya Mishra](https://www.linkedin.com/in/adityamishraaaa/) (BSMS 2021–2026)
