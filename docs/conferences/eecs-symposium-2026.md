@@ -7,14 +7,14 @@ All members of SIRL participated in the EECS Research Symposium held at IISER Bh
 
 
 ## Participants
-[Nilesh Sahu](https://www.linkedin.com/in/nilesh-kr-sahu/) (PhD 2021-2026)
-[Vikas](https://www.linkedin.com/in/wmivikas/) (PhD 2025–2030)
-[Aditya Mishra](https://adityamishra-ml.github.io) (BSMS 2021–2026)
-[Pranali Parmar](https://www.linkedin.com/in/parmar-pranali-9045a9238/) (BSMS 2021–2026) 
-[Sharmad Kalpande](https://www.linkedin.com/in/sharmad-kalpande-161a99256/) (BSMS 2022–2027)
-[Om Govind Jha](https://www.linkedin.com/in/om-govind-jha-0a5422265/) (BS 2022–2026)
-[Arpit Singh](https://www.linkedin.com/in/kunwar-arpit-singh/) (BS 2022–2026)
-Sambit Sahoo (BS 2022–2026)
+- [Nilesh Sahu](https://www.linkedin.com/in/nilesh-kr-sahu/) (PhD 2021-2026)
+- [Vikas](https://www.linkedin.com/in/wmivikas/) (PhD 2025–2030)
+- [Aditya Mishra](https://adityamishra-ml.github.io) (BSMS 2021–2026)
+- [Pranali Parmar](https://www.linkedin.com/in/parmar-pranali-9045a9238/) (BSMS 2021–2026) 
+- [Sharmad Kalpande](https://www.linkedin.com/in/sharmad-kalpande-161a99256/) (BSMS 2022–2027)
+- [Om Govind Jha](https://www.linkedin.com/in/om-govind-jha-0a5422265/) (BS 2022–2026)
+- [Arpit Singh](https://www.linkedin.com/in/kunwar-arpit-singh/) (BS 2022–2026)
+- Sambit Sahoo (BS 2022–2026)
 
 ## Photos
 ![EECS Research Symposium 2026](/docs/assets/conferences/eecs-symposium-2026/eecs-symp-2026.jpg)
