@@ -5,9 +5,9 @@
 ## Overview
 Aditya Mishra (BSMS 2021–2026) and Vikas (PhD 2025–2030) were selected to participate in IndoML 2025, with their travel and accommodation fully supported by the IndoML organizing committee. During the event, they interacted with professors, researchers, and students from various institutes, and showcased both their individual research contributions and the research activities being carried out at SIRL.
 
-## Participants
-[Aditya Mishra](https://adityamishra-ml.github.io) (BSMS 2021–2026)  
-[Vikas](https://www.linkedin.com/in/wmivikas/) (PhD 2025–2030)
+## Participants  
+- [Vikas](https://www.linkedin.com/in/wmivikas/) (PhD 2025–2030)
+- [Aditya Mishra](https://www.linkedin.com/in/adityamishraaaa/) (BSMS 2021–2026)
 
 ## Photos
 ![IndoML 2025](/docs/assets/conferences/IndoML-2025/indoml.jpg)
